@@ -1,0 +1,16 @@
+.header-cop {
+  position: relative;
+  background-color: #EB6469;
+  padding: 2rem;
+
+  h1,h2,h3 {
+      margin: 0;
+      color: white;      
+  }
+
+  &--xs {
+    padding: 0;
+    height: 8px;
+  }
+
+}

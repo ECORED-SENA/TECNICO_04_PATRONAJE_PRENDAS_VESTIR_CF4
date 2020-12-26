@@ -1,0 +1,18 @@
+.header-arrow_1 {
+  position: relative;
+  background-color: #9B649D;
+  padding: 2rem;
+  border-radius: 1rem;
+
+  h1,h2,h3 {
+      margin: 0;
+      color: $white;      
+  }
+
+  &--xs {
+    padding: 0;
+    height: 8px;
+  }
+
+}
+

@@ -1,0 +1,133 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introduccion",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"     
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "patrones",
+    "title": "1. Trazado de patrones (Software de patronaje)",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "patrones",
+        "title": "1.1 Personalizar área de trabajo - Optitex",
+        "anchor": "tema1_1"
+      },   
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.2. Trazo de la falda – Optitex",
+        "anchor": "tema1_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.3. Trazo de la base superior femenina – Optitex",
+        "anchor": "tema1_3"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.5. Traslados de pinza – Optitex",
+        "anchor": "tema1_5"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.6. Cortes base superior femenina – Optitex",
+        "anchor": "tema1_6"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.7. Blusa hasta la cadera – Optitex",
+        "anchor": "tema1_7"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.8. Cortes princesa y francés – Optitex",
+        "anchor": "tema1_8"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "patrones",
+        "title": "1.9. Modelos de faldas - Optitex",
+        "anchor": "tema1_9"
+      }     
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "trazo",
+    "title": "2. Trazo y corte manual",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.1. Reconocimiento de las prendas",
+        "anchor": "tema2_1"
+      },   
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.2. Introducción a Trazo y corte",
+        "anchor": "tema2_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.3. Proceso de extendido",
+        "anchor": "tema2_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "trazo",
+        "title": "2.4. Tipos de trazo",
+        "anchor": "tema2_4"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.5. Tendido marcación y corte",
+        "anchor": "tema2_5"
+      },     
+      {
+        "icon": "fa fa-file-text",
+        "slug": "trazo",
+        "title": "2.6. Características del material",
+        "anchor": "tema2_6"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.6.1. Ejemplo de tipos de tendido con diferentes características del material",
+        "anchor": "tema2_6_1"
+      },     
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "trazo",
+        "title": "2.7. Terminología industrial de trazo y corte",
+        "anchor": "tema2_7"
+      }   
+    ]   
+  }
+]
+
