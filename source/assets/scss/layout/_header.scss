@@ -1,5 +1,5 @@
 .page-header {
-    background: $brand-color-dark;
+    background: linear-gradient(0deg, #9878E1 0%, #673AB7 100% );
     position: relative;
 
     .barra-dots {
@@ -27,7 +27,11 @@
 .page-header-textura{
     .page-textura {
         padding: 2rem 1rem;
-        background: url(../images/header/header_pattern.png) scroll bottom center repeat !important;
+        background: url(../images/header/header_pattern.svg);
+        background-repeat: repeat-y;
+        background-attachment: fixed;
+        background-position: center top;
+        background-size: contain;
     }
 }
 
@@ -46,6 +50,7 @@
 
 .curso-imagen {
     max-height: 350px;
+    width: 100%;
 }
 
 .theme-dark {
@@ -130,5 +135,3 @@
         }
     }
 }
-
-

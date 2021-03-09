@@ -35,21 +35,21 @@
         margin-bottom: 0;
 
         &:first-child .card-header {
-            border-top: 1px solid #2B4E6A;
+            border-top: none;
         }
 
         .show {
-            border-bottom: 1px solid #2B4E6A;
+            border-bottom: 2px solid #9987a0;
         }
     }
 
     .card-header {
         background-color: white;
-        border-bottom: 3px solid #2B4E6A;
+        border-bottom: 3px solid #927bdb;
     }
 
     .card-body{
-        background-color: #E6EDF2;
+        background-color: #F3F0F7;
     }
 
     .icon {
@@ -59,8 +59,6 @@
         margin: 0 15px 0px 0px;
         background-size: contain;
         background-repeat: no-repeat;
-        background-repeat-x: no-repeat;
-        background-repeat-y: no-repeat;
         background-position-x: 50%;
         background-position-y: 50%;
         &.icon-1 {
