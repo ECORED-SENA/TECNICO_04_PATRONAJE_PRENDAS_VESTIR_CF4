@@ -56,12 +56,15 @@
   right: 15px;
   top: 11px;
   position: absolute;
-  background: $orange;
+  background: #fdc100;
+  transition: 0.3s;
+
 }
 
 .btn-link.collapsed:after
 {
   content: '\002B';
+  background: #9473de;
 }
 
 .btn-link:before
