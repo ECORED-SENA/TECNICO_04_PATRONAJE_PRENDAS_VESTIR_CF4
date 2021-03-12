@@ -118,12 +118,6 @@
       {
         "icon": "fa fa-play-circle",
         "slug": "trazo",
-        "title": "2.6.1. Ejemplo de tipos de tendido con diferentes características del material",
-        "anchor": "tema2_6_1"
-      },     
-      {
-        "icon": "fa fa-play-circle",
-        "slug": "trazo",
         "title": "2.7. Terminología industrial de trazo y corte",
         "anchor": "tema2_7"
       }   
